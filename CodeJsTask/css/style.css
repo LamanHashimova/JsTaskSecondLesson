@@ -1,0 +1,66 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* Task1
+body{
+ display: none;
+}
+ #Image{
+  width: 100%;
+  height: 100%;
+}
+#Image img{
+  width: 100%;
+} */
+/* Task 2
+
+body{
+  text-align: center;
+}
+#Welcome{
+  margin-top: 300px;
+font-size: 50px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+color: brown;
+} */
+/* Task3
+body{
+   text-align: center;
+   margin: 30px ;
+}
+#Submit{
+ border: none;
+  cursor: pointer;
+  font-size: 2rem;
+  border-radius: 5px;
+  padding: 10px 20px;
+  color: white;
+  box-shadow: rgb(0 0 0 / 75%) -4px 4px 5px 0px,
+              rgb(0 0 0 / 0%) -8px 8px 5px 0px; 
+ background-color: green;
+
+}
+  #Academy{
+  
+  display: inline-block;
+        width:30%;
+        border:2px solid green;
+        border-radius:4px;
+        margin:8px 20px;
+        outline:none;
+        padding:8px;
+        transition:.3s;
+
+  }
+  
+      
+  #Academy:focus{
+    border-color:dodgerBlue;
+    box-shadow:0 0 8px 0 dodgerBlue;
+  }
+  #Result{
+    margin-top: 20px;
+    font-size: 30px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
